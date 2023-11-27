@@ -1,4 +1,3 @@
-# Ficha 1: 
 1. División con resto
 
 Plantear un script (directamente en el shell de Python) que permita informar, para dos valores a y b , el resultado de la división entre    a y b y el resto de esa división. Asuma valores fijos para a y b .
