@@ -1,0 +1,16 @@
+# Guía de ejercicios prácticos - Ficha 04
+
+1. [Generador de Dirección de Mail](G04-Ej01.md)
+2. [Suma - División - Potencia](G04-Ej02.md)
+3. [Jornal de un Operario](G04-Ej03.md)
+4. [Temperatura diaria](G04-Ej04.md)
+5. [Tarjeta de Bingo](G04-Ej05.md)
+6. [Analisis de palabra](G04-Ej06.md)
+7. [Tirada de moneda](G04-Ej07.md)
+8. [Lanzamiento de dados](G04-Ej08.md)
+9. [Edad mínima](G04-Ej09.md)
+10. [Terreno](G04-Ej10.md)
+11. [Galería de arte](G04-Ej11.md)
+12. [Cartas de Truco](G04-Ej12.md)
+13. [Cálculo de Precios con Descuento](G04-Ej13.md)
+14. [Tarifas de Peaje](G04-Ej14.md)
