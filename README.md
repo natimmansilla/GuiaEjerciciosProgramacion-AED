@@ -40,9 +40,9 @@
 14. [Tarifas de Peaje](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/0156840dada2b7c7fb9dc57bd3bd19c3cbe3ce74/Guia%2003/G03-Ej14.md)
 
 ## Guia 4: Condicionales Simples
-1. Generador de Dirección de Correo
-2. Suma - División - Potencia
-3. Diario de un Operario
+1. [Generador de Dirección de Correo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/f24ce1d194bac2bedcfcbdeb179f33d0eb4fedf6/Guia%2004/G04-Ej01.md)
+2. [Suma - División - Potencia](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/e22d60e076f9b59a80de7efde8a3f23a3a6c49ee/Guia%2004/G04-Ej02.md)
+3. [Diario de un Operario](
 4. Temperatura diaria
 5. Tarjeta de Bingo
 6. Análisis de palabra
