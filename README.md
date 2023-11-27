@@ -1,7 +1,7 @@
 # Guia de Ejercicios - Algoritmos Y Estructura de Datos
 
 ## Guia 1: Tipo de datos - Estructuras Secuenciales
-1. División con resto
+1. [División con resto](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/36c54a2fe9867a4aef2f43fdfc0e2433c8831098/GuiaFicha_1/README.md)
 2. Cuadrado de un binomio
 3. Área de un triángulo
 4. Últimos dígitos
