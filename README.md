@@ -24,20 +24,20 @@
 10. [Cálculo de ganancias de película](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/e75632ef5518e72f912d3866f3a78cf28913df87/Guia%2002/G02-Ej10.md)
 
 ## Guia 3: Condicionales Dobles
-1. Generador de Dirección de Correo
-2. Suma - División - Potencia
-3. Diario de un Operario
-4. Temperatura diaria
-5. Tarjeta de Bingo
-6. Análisis de palabra
-7. Tirada de moneda
-8. Lanzamiento de dados
-9. Edad minima
-10. Terreno
-11. Galeria de arte
-12. Cartas de Truco
-13. Cálculo de Precios con Descuento
-14. Tarifas de Peaje
+1. [Generador de Dirección de Correo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/502e58f2406553700086d2ffbf9cac680ef80278/Guia%2003/G03-Ej01.md)
+2. [Suma - División - Potencia](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/1545f67f047cabe5046e66a11634fb78c1d5f12a/Guia%2003/G03-Ej02.md)
+3. [Diario de un Operario](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/6cd9c535629e2f8d964fc2e12b3f49773a72a99f/Guia%2003/G03-Ej03.md)
+4. [Temperatura diaria](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/8395f718261a3c3fbe558e57ea2268e93e35c07b/Guia%2003/G03-Ej04.md)
+5. [Tarjeta de Bingo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/3eab1395d807e7d0afdff71c1e2934fd22ab61ff/Guia%2003/G03-Ej05.md)
+6. [Análisis de palabra](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/669b0c1c81b9bdaf71923b324d24f72a613227b7/Guia%2003/G03-Ej06.md)
+7. [Tirada de moneda](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/c5d0350a15494ad63417256155848347d9f94765/Guia%2003/G03-Ej07.md)
+8. [Lanzamiento de dados](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/918d5bb026999f9d9914ce1c2fe7214d981ce774/Guia%2003/G03-Ej08.md)
+9. [Edad minima](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/cbfc78dfa178469ea81f0bba0c75382903b8b303/Guia%2003/G03-Ej09.md)
+10. [Terreno](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/4d819f1c00e550b38000195f946ae58f0cf3791c/Guia%2003/G03-Ej10.md)
+11. [Galeria de arte](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/186c56a51cb408e9a50e3d24293eaf8afdb37e43/Guia%2003/G03-Ej11.md)
+12. [Cartas de Truco](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/6b88d035911eff93ec0844bcc50f2937c56beed8/Guia%2003/G03-Ej12.md)
+13. [Cálculo de Precios con Descuento](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/30953fd4c0ecf1bd7f995d7312c08becaf1c07ef/Guia%2003/G03-Ej13.md)
+14. [Tarifas de Peaje](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/0156840dada2b7c7fb9dc57bd3bd19c3cbe3ce74/Guia%2003/G03-Ej14.md)
 
 ## Guia 4: Condicionales Simples
 1. Generador de Dirección de Correo
