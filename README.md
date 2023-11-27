@@ -1,3 +1,4 @@
+![banner](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/1ff12fad2ae203bb8c07987b094e75794c1e799a/assets/bannner_python.png)
 # Guia de Ejercicios - Algoritmos Y Estructura de Datos
 
 ## Guia 1: Tipo de datos - Estructuras Secuenciales
