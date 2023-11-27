@@ -303,21 +303,4 @@
 3. Problema de las Ocho Reinas (Backtracking - Una sola solución)
 4. Problema de las Ocho Reinas (Backtracking - Todas las soluciones posibles)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### UTN - Facultad Regional Córdoba, Argentina - 2023
+#### Universidad Tecnológica Nacional - Facultad Regional Córdoba, Argentina - 2023
