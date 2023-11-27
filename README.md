@@ -12,16 +12,16 @@
 9. [Área de un rectángulo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/78034c45e0f6f77446d18114257741ed92163312/Guia%2001/G01-Ej09.md)
 
 ## Guia 2: Algoritmos menor y mayor , Tuplas
-1. Cuadrados y Cubos
-2. Descuento en Medicinas
-3. Ecuación de Einstein
-4. Polinomio de Segundo Grado
-5. Cálculo de Ángulos
-6. Precio de Venta
-7. Votación en el Congreso
-8. Rinde de un Campo Agrícola
-9. Datos de un Rectángulo
-10. Cálculo de ganancias de película
+1. [Cuadrados y Cubos](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/fa5e12f1a664b641c877b6fa31c2e629ce282def/Guia%2002/G02-Ej01.md)
+2. [Descuento en Medicinas](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/0a541fa568427e035502f761bc989118c34c7407/Guia%2002/G02-Ej02.md)
+3. [Ecuación de Einstein](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/5caaa395e75eb13ae16ed6c8e3c34e28dbe2a764/Guia%2002/G02-Ej03.md)
+4. [Polinomio de Segundo Grado](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/fa0c9820ad20b1b1bf75b3a44064d8ad51fd99b9/Guia%2002/G02-Ej04.md)
+5. [Cálculo de Ángulos](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/05a431d4f2529cc2e7c910c40bde7c2599eaf4ea/Guia%2002/G02-Ej05.md)
+6. [Precio de Venta](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/f5a5b02d90364c11ee1a23890a10345faa021131/Guia%2002/G02-Ej06.md)
+7. [Votación en el Congreso](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/85c97def3e263b0eb52fb0299b17f850ad001fec/Guia%2002/G02-Ej07.md)
+8. [Rinde de un Campo Agrícola](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/85c97def3e263b0eb52fb0299b17f850ad001fec/Guia%2002/G02-Ej08.py)
+9. [Datos de un Rectángulo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/335403a6efc4daf922c4cd052150a4bce6251ac8/Guia%2002/G02-Ej09.md)
+10. [Cálculo de ganancias de película](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/e75632ef5518e72f912d3866f3a78cf28913df87/Guia%2002/G02-Ej10.md)
 
 ## Guia 3: Condicionales Dobles
 1. Generador de Dirección de Correo
