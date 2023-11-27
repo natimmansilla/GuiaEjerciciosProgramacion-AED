@@ -1,15 +1,15 @@
 # Guia de Ejercicios - Algoritmos Y Estructura de Datos
 
 ## Guia 1: Tipo de datos - Estructuras Secuenciales
-1. [División con resto](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/36c54a2fe9867a4aef2f43fdfc0e2433c8831098/GuiaFicha_1/README.md)
-2. Cuadrado de un binomio
-3. Área de un triángulo
-4. Últimos dígitos
-5. Conversión de medidas
-6. Viaje Córdoba-Rosario
-7. Precio del boleto
-8. Perímetro de un cuadrado
-9. Área de un rectángulo
+1. [División con resto](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/537214ff7638b5c100d84ad31cd2e7f5835312d1/Guia%2001/G01-Ej01.md)
+2. [Cuadrado de un binomio](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/10055d4a04d98e4a30770b853eddc266108975d3/Guia%2001/G01-Ej02.md)
+3. [Área de un triángulo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/0f395239d55802e6bb20d5e84711d10a01d2d595/Guia%2001/G01-Ej03.md)
+4. [Últimos dígitos](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/8d341cc791733bb08f40dccf2b54dc481efc49ec/Guia%2001/G01-Ej04.md)
+5. [Conversión de medidas](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/33c8cf213548e5249ec9b9e6274c97a1ae9cf52e/Guia%2001/G01-Ej05.md)
+6. [Viaje Córdoba-Rosario](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/44176c01dc081768adc949c8fc1610e30d44696d/Guia%2001/G01-Ej06.md)
+7. [Precio del boleto](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/58208997929a77e77487a14ed1f69e3316079db3/Guia%2001/G01-Ej07.md)
+8. [Perímetro de un cuadrado](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/52a510b139e6113b3dd3d24282e9fe5272acb97d/Guia%2001/G01-Ej08.md)
+9. [Área de un rectángulo](https://github.com/natimmansilla/GuiaEjerciciosProgramacion-AED/blob/78034c45e0f6f77446d18114257741ed92163312/Guia%2001/G01-Ej09.md)
 
 ## Guia 2: Algoritmos menor y mayor , Tuplas
 1. Cuadrados y Cubos
