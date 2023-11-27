@@ -1,6 +1,6 @@
 # Guia de Ejercicios - Algoritmos Y Estructura de Datos
 
-## Guia 1:
+## Guia 1: Tipo de datos - Estructuras Secuenciales
 1. División con resto
 2. Cuadrado de un binomio
 3. Área de un triángulo
@@ -11,7 +11,7 @@
 8. Perímetro de un cuadrado
 9. Área de un rectángulo
 
-## Guia 2:
+## Guia 2: Algoritmos menor y mayor , Tuplas
 1. Cuadrados y Cubos
 2. Descuento en Medicinas
 3. Ecuación de Einstein
@@ -23,7 +23,7 @@
 9. Datos de un Rectángulo
 10. Cálculo de ganancias de película
 
-## Guia 3:
+## Guia 3: Condicionales Dobles
 1. Generador de Dirección de Correo
 2. Suma - División - Potencia
 3. Diario de un Operario
@@ -39,7 +39,7 @@
 13. Cálculo de Precios con Descuento
 14. Tarifas de Peaje
 
-## Guia 4:
+## Guia 4: Condicionales Simples
 1. Generador de Dirección de Correo
 2. Suma - División - Potencia
 3. Diario de un Operario
@@ -55,7 +55,7 @@
 13. Cálculo de Precios con Descuento
 14. Tarifas de Peaje
 
-## Guia 5:
+## Guia 5: Ciclo WHILE
 1. Operaciones de orden con 3 nros.
 2. Elecciones Presidenciales
 3. Mantenimiento Informático
@@ -81,7 +81,7 @@
 23. Votación en el Senado (*)
 24. Triatlón del Ironman
 
-## Guia 6:
+## Guia 6: Ciclo FOR
 1. complejo de cines
 2. Ventas por sucursal
 3. Menú y números aleatorios
@@ -94,7 +94,7 @@
 10. Comisión de Vendedores
 11. Proceso de Discriminantes
 
-## Guia 7:
+## Guia 7: Estructuras Repetitivas - Ciclos Variantes
 1. ciclistas
 2. Secuencia de Comparaciones
 3. Sueldos y aguinaldo
@@ -106,7 +106,7 @@
 9. Validación de cuenta
 10. Dirección de Tránsito
 
-## Guia 8:
+## Guia 8: Procesamiento de secuencias de caracteres
 1. Menú de opciones con secuencias
 2. Secuencia numérica (1)
 3. Secuencia numérica (2)
@@ -117,7 +117,7 @@
 8. Problema estilo parcial 1 (no tan básico)
 9. Problema estilo parcial 1 (Complicado)
 
-## Guia 9:
+## Guia 9: Subproblemas y Funciones
 1. Divisibles por 4
 2. Secuencia de numeros aleatorios
 3. Secuencias, Menú y Texto
@@ -125,7 +125,7 @@
 5. Simulacro 1 del Parcial 1
 6. Simulacro 2 del Parcial 1
 
-## Guia 10:
+## Guia 10: Subproblemas y Funciones
 1. Sílaba "mo"
 2. Secuencia 1, 2, 3
 3. Secuencia 5, 5
@@ -137,7 +137,7 @@
 9. Juego de Cartas
 10. portal de empleo
 
-## Guia 11:
+## Guia 11: Funciones
 1. Inicio y Fin con vocal
 2. Sílaba 'li'
 3. Sílaba 'ta'
@@ -145,7 +145,7 @@
 5. Sílaba 'dre'
 6. Pago Fácil
 
-## Guia 12:
+## Guia 12: Módulos
 1. Sílaba "de" en la primera mitad
 2. Sólo menores que 7.
 3. Solamente 'a'
@@ -155,7 +155,7 @@
 7. Dificultad = pow (parcial, 3)
 8. Entidad Bancaria
 
-## Guia 13:
+## Guia 13: Módulos y Paquetes
 1. Problema 1
 2. Mayúsculas
 3. Ejercicio lalelilolu
@@ -165,7 +165,7 @@
 7. Parcial 2 [1k10] 2018
 8. Parcial 2 [1k15 T2] 2020
 
-## Guia 14:
+## Guia 14: Recursividad
 1. Factorial - Fibonacci
 2. Suma recursiva de dígitos
 3. Suma recursiva de pares
@@ -174,27 +174,27 @@
 6. Simulacro 2 (2023)
 7. Enunciado Tipo Parcial 2
 
-## Guia 15:
+## Guia 15: Arreglos Unidimencionales
 1. Pluviómetro
 2. último y primero
 3. Búsqueda de Primos
 4. Mayores con el mismo índice
 5. Mayores al Promedio
 
-## Guia 16:
+## Guia 16: Ordenamiento y Búsqueda
 1. Ordenar y Buscar
 2. Alumnos
 3. Concurso de Baile
 4. Usuarios (sin repetir)
 
-## Guia 17:
+## Guia 17: Arreglos
 1. Estudio climatológico
 2. Estadística con datos
 3. Ventas
 4. Repaso de arreglos
 5. Ventas con vectores
 
-## Guia 18:
+## Guia 18: Arreglos - variantes
 1. Tren de la Costa
 2. empresa de transportes
 3. Multas de tránsito
@@ -203,12 +203,12 @@
 6. Procesamiento de Tarjetas
 7. Fábrica de Alimentos
 
-## Guia 19:
+## Guia 19: Registros y Objetos
 1. Triatlon
 2. Guerra de Cartas
 3. Dos Puntos
 
-## Guia 20:
+## Guia 20: Arreglos de Objetos
 1. Analizando temperaturas
 2. trafico rojo
 3. El almacen
@@ -220,7 +220,7 @@
 9. hipódromo
 10. Venta de pasajes
 
-## Guia 21:
+## Guia 21: Arreglos Bidimensionales
 1. empresa de colectivos
 2. Estadística con Dados (continuación)
 3. Liga Mayor de Béisbol
@@ -229,13 +229,13 @@
 6. Recorridos en matriz rectangular
 7. Gestión de Entradas
 
-## Guia 22:
+## Guia 22: Ordenamiento
 1. Torneo de Fútbol
 2. mejores alumnos
 3. Empresa de Telefonía
 4. jurado deportivo
 
-## Guia 23:
+## Guia 23:Archivos
 1. quini 6
 2. Alquiler de Cabaños
 3. rapipago
@@ -244,13 +244,13 @@
 6. Club Deportivo
 7. zapateria
 
-## Guia 24:
+## Guia 24: Archivos de Texto 
 1. Salón de Fiestas
 2. Alquiler de Casas
 3. Pagos Regalías
 4. Álbum de figuras
 
-## Guia 25:
+## Guia 25: Archivos Binarios
 1. Elecciones
 2. gala de beneficencia
 3. Administrador de Gastos
@@ -259,25 +259,25 @@
 6. veterinaria
 7. La Concesionaria
 
-## Guia 26:
+## Guia 26: Archivos de gestion ABM
 1. Gimnasio
 2. concesionaria
 3. Gestor de discotecas
 
-## Guia 27:
+## Guia 27: Analisis de Algoritmos - Caso promedio y Peor Caso - Notacion BIG(O)
 1. Empresa Celular
 2. Empresa de TV + Internet
 3. Concesionaria de Autos
 
-## Guia 28:
+## Guia 28:  Pilas y Colas
 1. Clase Stack y aplicación simple
 2. Cadena capicúa
 3. Clase Queue y aplicación simple
 
-## Guia 29:
+## Guia 29: Arboles Binarios
 1. Clase SearchTree y aplicación simple
 
-## Guia 30:
+## Guia 30: Grafos
 1. Clase DirectedGraph y aplicación simple
 2. Clase UnDirectedGraph y aplicación simple
 3. (Tipo: Parcial Recuperatorio) - Colegio de Ingenieros
@@ -294,10 +294,10 @@
 14. (Tipo: Examen Final) - Agencia de Turismo (Enunciado 2023)
 15. (Tipo: Examen Final) - Centro de Entrenamiento (Enunciado 2021)
 
-## Guia 31:
+## Guia 31: Divide y Vencerás
 1. Divide y Vencerás - Ordenamiento Quicksort
 
-## Guia 32:
+## Guia 32: Algoritmos Ávidos, Programación Dinámica y Backtracking
 1. Problema del Cambio de Monedas (Algoritmo Ávido)
 2. Problema del Cambio de Monedas (Programación Dinámica)
 3. Problema de las Ocho Reinas (Backtracking - Una sola solución)
