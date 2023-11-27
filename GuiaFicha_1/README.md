@@ -1,10 +1,4 @@
 # Ficha 1: 
 1. División con resto
-2. Cuadrado de un binomio
-3. Área de un triángulo
-4. Últimos dígitos
-5. Conversión de medidas
-6. Viaje Córdoba-Rosario
-7. Precio del boleto
-8. Perímetro de un cuadrado
-9. Área de un rectángulo
+
+Plantear un script (directamente en el shell de Python) que permita informar, para dos valores a y b , el resultado de la división entre    a y b y el resto de esa división. Asuma valores fijos para a y b .
